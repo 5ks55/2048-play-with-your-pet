@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af6f08b732e00140ab2362ae378e2ec, type: 3}
+  m_Name: GameServicesDataRuntime
+  m_EditorClassIdentifier: 
+  useForAndroid: 1
+  useForIos: 0
+  usePlaymaker: 0
+  googleAppId: 181578736114
+  allGameAchievements:
+  - name: StartingPoint
+    idGoogle: CgkI8sO-t6QFEAIQAQ
+    idIos: 
+    achivementComplete: 0
+  - name: FirstLesson
+    idGoogle: CgkI8sO-t6QFEAIQDg
+    idIos: 
+    achivementComplete: 0
+  - name: AdvancedPlayer
+    idGoogle: CgkI8sO-t6QFEAIQAw
+    idIos: 
+    achivementComplete: 0
+  - name: InitialSteps
+    idGoogle: CgkI8sO-t6QFEAIQDw
+    idIos: 
+    achivementComplete: 0
+  - name: PathtoMastery
+    idGoogle: CgkI8sO-t6QFEAIQBA
+    idIos: 
+    achivementComplete: 0
+  - name: BrilliantMind
+    idGoogle: CgkI8sO-t6QFEAIQBQ
+    idIos: 
+    achivementComplete: 0
+  - name: PuzzleMaster
+    idGoogle: CgkI8sO-t6QFEAIQBg
+    idIos: 
+    achivementComplete: 0
+  - name: ExpertLevel
+    idGoogle: CgkI8sO-t6QFEAIQBw
+    idIos: 
+    achivementComplete: 0
+  - name: PuzzleChampion
+    idGoogle: CgkI8sO-t6QFEAIQCA
+    idIos: 
+    achivementComplete: 0
+  - name: MasterySummit
+    idGoogle: CgkI8sO-t6QFEAIQCQ
+    idIos: 
+    achivementComplete: 0
+  - name: PuzzleLegend
+    idGoogle: CgkI8sO-t6QFEAIQCg
+    idIos: 
+    achivementComplete: 0
+  - name: WorldRecord
+    idGoogle: CgkI8sO-t6QFEAIQCw
+    idIos: 
+    achivementComplete: 0
+  - name: Unmatched
+    idGoogle: CgkI8sO-t6QFEAIQDA
+    idIos: 
+    achivementComplete: 0
+  - name: MasteryofMastery
+    idGoogle: CgkI8sO-t6QFEAIQDQ
+    idIos: 
+    achivementComplete: 0
+  - name: AspiringImprovement
+    idGoogle: CgkI8sO-t6QFEAIQEA
+    idIos: 
+    achivementComplete: 0
+  - name: Persistence
+    idGoogle: CgkI8sO-t6QFEAIQEQ
+    idIos: 
+    achivementComplete: 0
+  - name: Determination
+    idGoogle: CgkI8sO-t6QFEAIQEg
+    idIos: 
+    achivementComplete: 0
+  - name: ProgressivePath
+    idGoogle: CgkI8sO-t6QFEAIQEw
+    idIos: 
+    achivementComplete: 0
+  - name: IncredibleEndurance
+    idGoogle: CgkI8sO-t6QFEAIQFA
+    idIos: 
+    achivementComplete: 0
+  - name: AThousandBrokenPuzzles
+    idGoogle: CgkI8sO-t6QFEAIQFQ
+    idIos: 
+    achivementComplete: 0
+  allGameLeaderboards:
+  - name: PuzzleWizards
+    idGoogle: CgkI8sO-t6QFEAIQFg
+    idIos: 
+  useUVS: 0

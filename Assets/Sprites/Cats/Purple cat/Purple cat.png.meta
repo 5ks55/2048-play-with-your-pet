@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 87b48d708fccbc84da0ad2eb3bedbcb7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple cat_mouth
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 461
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ebbf429b2496540ac697a8badac59c
+      internalID: -175926506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cute eyes left: -1512996116
+      Cute eyes right: -1584155746
+      Dizzy eyes left: 1116519963
+      Dizzy eyes right: 1379485486
+      Purple cat_1: -922950547
+      Purple cat_10: -370151167
+      Purple cat_11: 1468370742
+      Purple cat_12: -548258348
+      Purple cat_13: 1006526542
+      Purple cat_14: -1587627173
+      Purple cat_15: 581357118
+      Purple cat_16: 629647213
+      Purple cat_17: 1348307791
+      Purple cat_18: 692888221
+      Purple cat_19: -119488238
+      Purple cat_20: 378836005
+      Purple cat_24: -46919029
+      Purple cat_25: 1732082543
+      Purple cat_26: 1229386850
+      Purple cat_27: -1142022281
+      Purple cat_28: -445224842
+      Purple cat_29: -1513822104
+      Purple cat_3: 1361025819
+      Purple cat_30: -1164199852
+      Purple cat_31: 1045505442
+      Purple cat_32: 1767747324
+      Purple cat_33: 1083738268
+      Purple cat_34: 2102067315
+      Purple cat_35: 1724273021
+      Purple cat_36: -274136213
+      Purple cat_37: -381136217
+      Purple cat_38: -1197169037
+      Purple cat_39: 313154873
+      Purple cat_40: 283310934
+      Purple cat_41: -1396791101
+      Purple cat_42: -1316577797
+      Purple cat_46: -1596898057
+      Purple cat_47: 626092699
+      Purple cat_48: 2127705853
+      Purple cat_51: 1599867652
+      Purple cat_52: -1004051450
+      Purple cat_53: 667735637
+      Purple cat_54: 346796344
+      Purple cat_55: -329036089
+      Purple cat_56: 418273008
+      Purple cat_57: -1832540496
+      Purple cat_58: -1002184005
+      Purple cat_59: 1162090911
+      Purple cat_6: -1867479174
+      Purple cat_60: 1082850568
+      Purple cat_61: -1219114601
+      Purple cat_62: -517171971
+      Purple cat_63: -384528281
+      Purple cat_64: -751483983
+      Purple cat_65: 696719540
+      Purple cat_66: 403900761
+      Purple cat_67: 995681319
+      Purple cat_68: 108393681
+      Purple cat_8: -1655478638
+      Purple cat_9: 2120322428
+      Purple cat_body: -309374427
+      Purple cat_head: -1027733584
+      Purple cat_mouth: -175926506
+      Purple cat_tail1: -526447443
+      Purple cat_tail2: -1806471423
+      Surprised eyes left: 1482285562
+      Surprised eyes right: 1701552127
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

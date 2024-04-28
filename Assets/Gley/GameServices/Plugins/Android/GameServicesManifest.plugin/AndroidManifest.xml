@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android = "http://schemas.android.com/apk/res/android"
+    package="com.google.example.games.mainlibproj">
+
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+    <application>
+        <meta-data android:name="com.google.android.gms.games.APP_ID" android:value = "\181578736114" />
+        <activity android:name="com.google.games.bridge.NativeBridgeActivity" android:theme = "@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+    </application>
+
+</manifest>
